@@ -198,3 +198,12 @@ Added DomTree as a second supported task using the same pipeline.
 Added root-conditional generalization evaluation (main vs holdout roots) to explicitly test robustness to unseen root distributions.
 
 Predict mode provides strong demo value via printed metrics + CSV/DOT/PNG visualization.
+
+<img width="700" height="332" alt="image" src="https://github.com/user-attachments/assets/3b415eb6-f01b-4f7d-9d06-70b68b131aab" />
+
+<img width="721" height="521" alt="image" src="https://github.com/user-attachments/assets/fecabc31-c2ce-4c73-993d-f52af8636774" />
+
+<img width="605" height="455" alt="image" src="https://github.com/user-attachments/assets/f4442b20-bf76-4dd0-b895-2e4178f45580" />
+
+
+
